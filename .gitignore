@@ -112,6 +112,8 @@ ipch/
 *.vsp
 *.vspx
 *.sap
+*.vcxproj
+*.filters
 
 # Visual Studio Trace Files
 *.e2e
